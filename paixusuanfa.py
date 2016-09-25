@@ -52,4 +52,3 @@ def kuaisu(a):
 if __name__ == '__main__':
     x = [5,4,3,2,1]
     kuaisu(x)
-
