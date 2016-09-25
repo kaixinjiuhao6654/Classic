@@ -11,3 +11,7 @@ def maopao(a):
 
 a = [2, 1, 9, 4, 3, 5, 7, 6]
 maopao(a)
+
+
+def charu(a):
+    pass
