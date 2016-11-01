@@ -5,7 +5,7 @@ import os
 
 
 class get_home_path(object):
-    def __init__(self, username='root'):
+    def __init__(self, username):
         self.username = username
         self.user_dict = {}
 
